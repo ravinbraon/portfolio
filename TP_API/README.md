@@ -31,3 +31,6 @@ Troisième étape, mettre l'API  sur le site :
     Pour résoudre ce problème j'ai donc eu l'idée de faire intéragir l'utilisateur avec un "prompt" en lui demandant une valeur (une des valeurs qui sont sur la droite afin de savoir quelle valeur mettre pour renvoyer une carte)
     Une fois la valeur écrite, la carte apparait sur la gauche, et on peut recommencer ainsi de suite.
     A savoir qu'il a plusieurs nombres possible (environ douze milles cartes disponibles), j'ai juste fait une petite sélection de toutes les valeurs possibles pour montrer le fonctionnement du site.
+
+
+![image du script](/git-bash.png "Titre de l'image")
